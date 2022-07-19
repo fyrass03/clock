@@ -1,0 +1,35 @@
+*{
+    /* background:  linear-gradient(black,  #1E1F29); */   margin: 0; 
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    background-size: cover;
+    background-color : linear-gradient(black,  #1E1F29);
+
+    /* background: linear-gradient(black,#1E1F29); */
+
+}
+body{
+    background-color: #1E1F29;
+}
+  .lkoll {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 30px solid white;
+    border-radius: 30%;
+    padding: 50px ;
+    color:#53EF10;;
+    justify-content: space-between ;
+     width: 33%;
+     background:  linear-gradient(black,  #1E1F29);
+    font-size: 1cm;
+    font-family:"akrem"
+    
+} 
+@font-face {
+    font-family: "akrem";
+    src: url(E1234Italic-DO3md.ttf);
+}
